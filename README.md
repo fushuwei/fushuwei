@@ -4,7 +4,7 @@
   <samp>
     :wave: Hi, I’m <a href="https://github.com/fushuwei">@fushuwei</a>.
     <br/>
-    I worked at small factory for 10+ years, and my job is a back-end software engineer
+    I worked at small factory for 10+ years, and my job is a back-end software engineer.
     <br/>
     I'm good at java and python programming, and i'm also interested in the front-end,
     <br/>
