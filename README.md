@@ -1,15 +1,31 @@
-# Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/fushuwei/count.svg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    :wave: Hi, I’m <a href="https://github.com/fushuwei">@fushuwei</a>.
+    <br/>
+    I worked at small factory for 10+ years, and my job is a back-end software engineer.
+    <br/>
+    I'm good at java and python programming, and i'm also interested in the front-end,
+    <br/>
+    such as vue and typescript, and i'm studying in my spare time.
+    <br>
+    Today, I'm still learning to make things :sparkles:
+    <br><br>
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://github.com/fushuwei">GitHub</a>
+  </samp>
+</p>
 
-# About Me
-- 👋 Hi, I’m @fushuwei
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-# Github Stats
+<!---
+## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fushuwei&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+--->
+
+<!---
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/fushuwei/count.svg)
+--->
 
 <!---
 fushuwei/fushuwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
