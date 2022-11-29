@@ -14,6 +14,8 @@
     <br/><br/>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br/><br/>
+    <img src="https://profile-counter.glitch.me/fushuwei/count.svg" width="150px" align="center">
+    <br/><br/>
     :coffee: Wanna chat? :point_right: @ me on <a href="https://github.com/fushuwei">GitHub</a>
   </samp>
 </p>
