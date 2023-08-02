@@ -6,11 +6,11 @@
     <br/>
     I worked at small factory for 10+ years, and my job is a back-end software engineer.
     <br/>
-    I'm good at java and python programming, and i'm also interested in the front-end,
+    I’m good at java and python programming, and I’m also interested in the front-end,
     <br/>
-    such as vue and typescript, and i'm studying in my spare time.
+    such as vue and typescript, and I’m studying in my spare time.
     <br/>
-    Today, I'm still learning to make things :sparkles:
+    Today, I’m still learning to make things :sparkles:
     <br/><br/>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br/><br/>
