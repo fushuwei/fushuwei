@@ -16,7 +16,7 @@
     <br/><br/>
     <img src="https://profile-counter.glitch.me/fushuwei/count.svg" width="150px" align="center">
     <br/><br/>
-    :coffee: Wanna chat? :point_right: @ me on <a href="https://github.com/fushuwei">GitHub</a>
+    :coffee: Wanna chat? :point_right: @ me on <a href="tencent://message/?uin=331044761">Tencent QQ</a>
   </samp>
 </p>
 <br/>
