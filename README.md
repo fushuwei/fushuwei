@@ -26,6 +26,14 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=fushuwei&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushuwei&layout=compact&theme=buefy&hide_border=true&locale=cn" /> |
 | ------------- | ------------- |
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fushuwei&theme=xcode&bg_color=FF000000&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=fushuwei&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fushuwei&theme=xcode&bg_color=FF000000&hide_border=true" />
+  </picture>
+</div>
+
 <!---
 ## Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fushuwei&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
