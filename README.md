@@ -14,7 +14,7 @@
     <br/><br/>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br/><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=7000&pause=300&color=1F2328&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Keep+moving+forward%2C+and+the+future+will+be+promising.;%E8%A1%8C%E8%80%8C%E4%B8%8D%E8%BE%8D%EF%BC%8C%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%EF%BC%81" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=7000&pause=300&color=1F2328&center=true&vCenter=true&multiline=true&width=435&lines=Keep+moving+forward%2C+and+the+future+will+be+promising.;%E8%A1%8C%E8%80%8C%E4%B8%8D%E8%BE%8D%EF%BC%8C%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%EF%BC%81" alt="Typing SVG" />
     <br/>
     <img src="https://profile-counter.glitch.me/fushuwei/count.svg" width="150px" align="center">
     <br/><br/>
